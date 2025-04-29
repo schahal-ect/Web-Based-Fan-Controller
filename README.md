@@ -1,3 +1,9 @@
+## Project Interface
+
+Below is a screenshot of the fan control web interface:
+
+![Fan Controller Interface](screenshots/interface.png)
+
 # Web-Based Fan Controller using Raspberry Pi
 
 This IoT project allows users to control a fan remotely using a web interface built with Flask, Python, and Raspberry Pi GPIO PWM signals.
